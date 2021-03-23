@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>/stationName:Focus_Left /stationLane:ME01 /stationNumber:PB01F1T01-BT001A /stationFactory /dataSourceNameEquipment:</StartArguments>
+    <StartWorkingDirectory>C:\Users\diegosz\Desktop\Diego\Relauncher\Relauncher\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartArguments>/stationName:focus_right /stationLane:MM15 /stationNumber:XXX22334 /stationFactory:</StartArguments>
+  </PropertyGroup>
+</Project>

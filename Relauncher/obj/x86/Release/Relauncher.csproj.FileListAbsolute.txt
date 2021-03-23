@@ -1,0 +1,4 @@
+C:\Users\saowpadu\Documents\Visual Studio 2010\Projects\Relauncher\Relauncher\bin\Release\NexTestProductionTesting.exe
+C:\Users\saowpadu\Documents\Visual Studio 2010\Projects\Relauncher\Relauncher\bin\Release\NexTestProductionTesting.pdb
+C:\Users\saowpadu\Documents\Visual Studio 2010\Projects\Relauncher\Relauncher\obj\x86\Release\NexTestProductionTesting.exe
+C:\Users\saowpadu\Documents\Visual Studio 2010\Projects\Relauncher\Relauncher\obj\x86\Release\NexTestProductionTesting.pdb

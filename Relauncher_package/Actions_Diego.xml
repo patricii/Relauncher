@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<relauncher>
+	<actions productName="ProductName" stationName="BrdTest_Left" siteName="FLXBZ">
+		<action name="start" parm="C:\prod\temp\DeletaLogs.bat|/? /G /N" />
+		<action name="start" parm="C:\prod\temp\taskkill.bat|/? /G /N" />
+		<action name="copy_file" parm="C:\prod\temp\prod\Utils|Start_BRDTEST_FQA.lnk|C:\users\jag_gps_me\Desktop" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\database|C:\prod\database|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\config|C:\prod\config|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\bin|C:\prod\bin|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\FQATemp|C:\prod\FQATemp|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\log|C:\prod\log|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\results|C:\prod\results|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\temp|C:\prod\temp|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\utils|C:\prod\utils|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\GEORGE\BrdTest\Common|C:\prod\GEORGE\BrdTest\Left|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\help|C:\prod\help|true" />
+		<action name="copy_if_not_exists" parm="C:\prod\GEORGE\BrdTest\Left\station.ini|C:\prod\temp\prod\GEORGE\BrdTest\Common\station_default.ini|C:\prod\GEORGE\BrdTest\Left\station.ini" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\config_bz.ini|Settings|stationName=SIDE|LEFT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\config_bz_FQA.ini|Settings|stationName=SIDE|LEFT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\Config_bz_FQA_Generate.ini|Settings|stationName=SIDE|LEFT|"/>
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\config_bz_GageRR.ini|Settings|stationName=SIDE|LEFT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\station.ini|Settings|stationLane=STATIONLINE|$ARG$|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\station.ini|Settings|stationNumber=BENCHID|$ARG$|" />
+		<action name="start" parm="C:\prod\Utils\Start_BRDTEST_Left.bat|/? /G /N" />
+	</actions>
+	<actions productName="ProductName" stationName="BrdTest_Right" siteName="FLXBZ">
+		<action name="copy_directory" parm="C:\prod\temp\prod\GEORGE\BrdTest\Common|C:\prod\GEORGE\BrdTest\Right|true" />
+		<action name="copy_if_not_exists" parm="C:\prod\GEORGE\BrdTest\Right\station.ini|C:\prod\temp\prod\GEORGE\BrdTest\Common\station_default.ini|C:\prod\GEORGE\BrdTest\Right\station.ini" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Right\config_bz.ini|Settings|stationName=SIDE|RIGHT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Right\config_bz_FQA.ini|Settings|stationName=SIDE|RIGHT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Right\config_bz_GageRR.ini|Settings|stationName=SIDE|RIGHT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\RIGHT\Config_bz_FQA_Generate.ini|Settings|stationName=SIDE|RIGHT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Right\station.ini|Settings|stationLane=STATIONLINE|$ARG$|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Right\station.ini|Settings|stationNumber=BENCHID|$ARG$|" />
+		<action name="start" parm="C:\prod\Utils\Start_BRDTEST_Right.bat|/? /G /N" />
+	</actions>
+	<actions productName="ProductName" stationName="BrdTest_Left" siteName="FLXMA">
+		<action name="start" parm="C:\prod\temp\DeletaLogs.bat|/? /G /N" />
+		<action name="start" parm="C:\prod\temp\taskkill.bat|/? /G /N" />
+		<action name="copy_file" parm="C:\prod\temp\prod\Utils|Start_BRDTEST_FQA.lnk|C:\users\jag_gps_me\Desktop" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\database|C:\prod\database|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\config|C:\prod\config|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\bin|C:\prod\bin|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\FQATemp|C:\prod\FQATemp|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\log|C:\prod\log|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\results|C:\prod\results|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\temp|C:\prod\temp|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\utils|C:\prod\utils|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\GEORGE\BrdTest\Common|C:\prod\GEORGE\BrdTest\Left|true" />
+		<action name="copy_directory" parm="C:\prod\temp\prod\help|C:\prod\help|true" />
+		<action name="copy_if_not_exists" parm="C:\prod\GEORGE\BrdTest\Left\station.ini|C:\prod\temp\prod\GEORGE\BrdTest\Common\station_default.ini|C:\prod\GEORGE\BrdTest\Left\station.ini" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\config_bz.ini|Settings|stationName=SIDE|LEFT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\config_bz_FQA.ini|Settings|stationName=SIDE|LEFT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\Config_bz_FQA_Generate.ini|Settings|stationName=SIDE|LEFT|"/>
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\config_bz_GageRR.ini|Settings|stationName=SIDE|LEFT|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\station.ini|Settings|stationLane=STATIONLINE|$ARG$|" />
+		<action name="setting" parm="C:\prod\GEORGE\BrdTest\Left\station.ini|Settings|stationNumber=BENCHID|$ARG$|" />
+		<action name="start" parm="C:\prod\Utils\Start_BRDTEST_Left.bat|/? /G /N" />
+	</actions>
+	<actions productName="ProductName" stationName="BrdTest_Right" siteName="FLXMA">
+		
+	</actions>
+</relauncher>

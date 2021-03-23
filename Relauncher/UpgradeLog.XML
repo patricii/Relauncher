@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Relauncher">
+</Property><Property Name="Solution File" Value="C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Relauncher.sln">
+</Property><Property Name="User Options File" Value="C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Relauncher.suo">
+</Property><Property Name="Date" Value="Friday, August 25, 2017">
+</Property><Property Name="Time" Value="10:39 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Relauncher.sln" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\Relauncher.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Relauncher.suo" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\Relauncher.suo">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="Relauncher.csproj" Description="Project file successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\Relauncher.csproj">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="Relauncher.csproj.user" Description="Project user file successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\Relauncher.csproj.user">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="CopyDirectory.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\CopyDirectory.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="CopyFile.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\CopyFile.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="CopyIfNotExists.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\CopyIfNotExists.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="CopySingleFile.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\CopySingleFile.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="DelayAction.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\DelayAction.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="DeleteAction.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\DeleteAction.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="IAction.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\IAction.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="IniFile.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\IniFile.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="Main.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\Main.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="MoveAction.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\MoveAction.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="Program.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="RenameAction.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\RenameAction.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="SettingAction.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\SettingAction.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="StartAction.cs" Description="File successfully backed up as C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\Backup\StartAction.cs">
+</Event><Event ErrorLevel="0" Project="Relauncher" Source="Relauncher.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Relauncher" Source="Relauncher.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Relauncher.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Relauncher.sln" Description="Converted">
+</Event></UpgradeLog>

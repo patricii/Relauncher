@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<relauncher>
+	<actions productName="ProductName" stationName="Left">
+		<action name="setting" parm="C:\Temp\Left.ini|Settings|BANCADA|I2C|" />
+		<action name="setting" parm="C:\Temp\Left.ini|Settings|stationName=SIDE|LEFT|" />
+		<action name="setting" parm="C:\Temp\Left.ini|Settings|stationLane|$ARG$|" />
+		<action name="setting" parm="C:\Temp\Left.ini|Settings|stationNumber|$ARG$|" />		
+		<action name="setting" parm="C:\Temp\Left.ini|Settings|stationFactory|$ARG$|=EMPTY" />			
+		<action name="move" parm="C:\Temp\Left_Copy.ini|C:\Temp\Left_Moved.ini" />	
+		<action name="delete" parm="C:\Temp|Left_Moved_Renamed.ini" />		
+		<action name="rename" parm="C:\Temp|Left_Moved.ini|Left_Moved_Renamed.ini" />	
+		<action name="delay" parm="10000" />						
+		<action name="start" parm="C:\Temp\Run.bat|/? /G /N" />	
+	</actions>
+	<actions productName="ProductName" stationName="FOCUS_RIGHT">
+		<!--<action name="copy_if_not_exists" parm="C:\prod\KIA\Calibration\Databases\CalDB_NET.xml|C:\prod\temp\prod\KIA\Calibration\Databases\CalDB_NET_backup.xml|C:\prod\KIA\Calibration\Databases\CalDB_NET.xml" />-->
+		<!--<action name="copy_single_file" parm="C:\Temp\None.ini|C:\Temp\None.ini" />-->
+		<action name="copy_single_file" parm="C:\Temp\None1.ini|C:\Temp\None.ini" />	
+	</actions>
+	<actions productName="ProductName" stationName="None">
+		<action name="copy_if_not_exists" parm="C:\Temp\None1.ini|C:\Temp\None.ini|C:\Temp\None1_Copy.ini" />						
+		<action name="copy_if_not_exists" parm="C:\Temp\None.ini|C:\Temp\None.ini|C:\Temp\None_Copy.ini" />								
+		<action name="copy_directory" parm="c:\Temp|C:\Temp1|true" />	
+		<action name="copy_file" parm="c:\Temp|*.*|C:\Temp1" />
+	</actions>	
+</relauncher>

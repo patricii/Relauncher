@@ -1,0 +1,9 @@
+C:\Users\saowpadu\Documents\Visual Studio 2010\Projects\Relauncher\Relauncher\bin\Debug\NexTestProductionTesting.exe
+C:\Users\saowpadu\Documents\Visual Studio 2010\Projects\Relauncher\Relauncher\bin\Debug\NexTestProductionTesting.pdb
+C:\Users\saowpadu\Documents\Visual Studio 2010\Projects\Relauncher\Relauncher\obj\x86\Debug\NexTestProductionTesting.exe
+C:\Users\saowpadu\Documents\Visual Studio 2010\Projects\Relauncher\Relauncher\obj\x86\Debug\NexTestProductionTesting.pdb
+C:\Users\diegosz\Desktop\Diego\Relauncher\Relauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\bin\Debug\NexTestProductionTesting.exe
+C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\bin\Debug\NexTestProductionTesting.pdb
+C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\obj\x86\Debug\NexTestProductionTesting.exe
+C:\Users\diegosz\Desktop\Diego\Diego\Relauncher\Relauncher\obj\x86\Debug\NexTestProductionTesting.pdb
